@@ -36,11 +36,11 @@ The board reads a VL53L5CX Time-of-Flight sensor over I²C and lights an LED whe
 
 Starting from a reference STM32 schematic provided in a KiCad course, I adapted it to the needs of this project. The final schematic is organized into clear functional blocks:
 
-**Microcontroller**: STM32G431 with its decoupling and reset circuitry
-**Sensor**: a dedicated block for the VL53L5CX Time-of-Flight sensor, wired to the MCU over I²C
-**EEPROM**: an on-board memory block sharing the I²C bus (SDA / SCL) with the sensor
-**Power**: supply block with indicator LEDs and power connectors
-**Mounting**: mounting holes for fixing the board
+- **Microcontroller**: STM32G431 with its decoupling and reset circuitry
+- **Sensor**: a dedicated block for the VL53L5CX Time-of-Flight sensor, wired to the MCU over I²C
+- **EEPROM**: an on-board memory block sharing the I²C bus (SDA / SCL) with the sensor
+- **Power**: supply block with indicator LEDs and power connectors
+- **Mounting**: mounting holes for fixing the board
 ![Schematic](docs/schematic.png)
 
 ## Software
