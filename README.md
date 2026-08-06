@@ -22,7 +22,7 @@ The board reads a VL53L5CX Time-of-Flight sensor over I²C and lights an LED whe
 
 ## Hardware
 
-| Block | Component | usage |
+| Block | Component | Usage |
 |-------|-----------|-------|
 | Microcontroller | STM32G431 (LQFP32) | The board's brain |
 | Sensor | VL53L5CX Time-of-Flight | I²C, range up to 4 m, multizone matrix |
