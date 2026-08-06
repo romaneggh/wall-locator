@@ -2,7 +2,7 @@
 
 > A custom PCB that uses a Time-of-Flight sensor to detect obstacles and, thanks to the sensor's 3D matrix, tell a wall apart from any other object, lighting an LED when an obstacle is detected.
 
-![Assembled PCB](docs/pcb-soldered.png)
+![Assembled PCB](docs/pcb_soldered.png)
 
 ## Description
 
