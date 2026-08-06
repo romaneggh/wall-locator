@@ -16,7 +16,7 @@ The board reads a VL53L5CX Time-of-Flight sensor over I²C and lights an LED whe
 
 ##  My Role
 
-> In this project, I was responsible of the schematic and the C coding.
+> In this project, I was responsible for the schematic and the C coding.
 
 ---
 
@@ -32,7 +32,7 @@ The board reads a VL53L5CX Time-of-Flight sensor over I²C and lights an LED whe
 - PCB: 2-layer board, 50 × 50 mm, designed and routed in KiCad
 - Assembly: hand-soldered (SMD components, including the LQFP32 MCU)
 
-### Schematic iterations
+### Schematic
 
 Starting from a reference STM32 schematic provided in a KiCad course, I adapted it to the needs of this project. The final schematic is organized into clear functional blocks:
 
