@@ -1,0 +1,1 @@
+STM32CubeIDE project for the STM32G431. Core application code is in main.c and utils.c. Open prog_projet.ioc in STM32CubeMX to view pcb configuration.
